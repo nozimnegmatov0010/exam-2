@@ -217,6 +217,18 @@
   .table {
     display: table;
   }
+  .h-\[400px\] {
+    height: 400px;
+  }
+  .h-\[420px\] {
+    height: 420px;
+  }
+  .h-\[600\] {
+    height: 600;
+  }
+  .h-\[600px\] {
+    height: 600px;
+  }
   .w-\[50px\] {
     width: 50px;
   }
@@ -405,6 +417,21 @@
   }
   .bg-\[\#whitesmoke\] {
     background-color: #whitesmoke;
+  }
+  .bg-\[eh\] {
+    background-color: eh;
+  }
+  .bg-\[ehete\] {
+    background-color: ehete;
+  }
+  .bg-\[ehetesmo\] {
+    background-color: ehetesmo;
+  }
+  .bg-\[ehetesmoke\] {
+    background-color: ehetesmoke;
+  }
+  .bg-\[whetesmoke\] {
+    background-color: whetesmoke;
   }
   .bg-\[whi\] {
     background-color: whi;
