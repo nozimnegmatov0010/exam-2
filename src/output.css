@@ -370,6 +370,9 @@
   .border-r-gray-600 {
     border-right-color: var(--color-gray-600);
   }
+  .bg-\[\#\#07AF91\] {
+    background-color: ##07AF91;
+  }
   .bg-\[\#\#016CA8\] {
     background-color: ##016CA8;
   }
