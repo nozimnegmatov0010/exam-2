@@ -226,6 +226,9 @@
   .w-\[90\%\] {
     width: 90%;
   }
+  .w-\[90\] {
+    width: 90;
+  }
   .w-\[100\%\] {
     width: 100%;
   }
@@ -312,6 +315,9 @@
   }
   .rounded-\[15px\] {
     border-radius: 15px;
+  }
+  .rounded-\[20\] {
+    border-radius: 20;
   }
   .rounded-\[20px\] {
     border-radius: 20px;
@@ -472,6 +478,9 @@
   .text-\[\#1178B280\] {
     color: #1178B280;
   }
+  .text-\[\#\] {
+    color: #;
+  }
   .text-\[\#white\] {
     color: #white;
   }
@@ -598,6 +607,11 @@
   .lg\:mt-\[40px\] {
     @media (width >= 64rem) {
       margin-top: 40px;
+    }
+  }
+  .lg\:mt-\[50px\] {
+    @media (width >= 64rem) {
+      margin-top: 50px;
     }
   }
   .lg\:block {
