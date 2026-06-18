@@ -289,6 +289,9 @@
   .flex-col-reverse {
     flex-direction: column-reverse;
   }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
   .items-center {
     align-items: center;
   }
@@ -480,6 +483,9 @@
   }
   .text-\[\#07AF91\] {
     color: #07AF91;
+  }
+  .text-\[\#016CA8\] {
+    color: #016CA8;
   }
   .text-\[\#1178B2\] {
     color: #1178B2;
