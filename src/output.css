@@ -167,8 +167,17 @@
   .mt-\[50\] {
     margin-top: 50;
   }
+  .mt-\[60px\] {
+    margin-top: 60px;
+  }
   .mt-\[70px\] {
     margin-top: 70px;
+  }
+  .mt-\[100px\] {
+    margin-top: 100px;
+  }
+  .mt-\[150px\] {
+    margin-top: 150px;
   }
   .mb-\[50px\] {
     margin-bottom: 50px;
