@@ -8,6 +8,7 @@
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
     --color-amber-50: oklch(98.7% 0.022 95.277);
+    --color-indigo-500: oklch(58.5% 0.233 277.117);
     --color-gray-300: oklch(87.2% 0.01 258.338);
     --color-gray-600: oklch(44.6% 0.03 256.802);
     --radius-xl: 0.75rem;
@@ -394,6 +395,9 @@
   .border-r-gray-600 {
     border-right-color: var(--color-gray-600);
   }
+  .border-b-indigo-500 {
+    border-bottom-color: var(--color-indigo-500);
+  }
   .bg-\[\#\#07AF91\] {
     background-color: ##07AF91;
   }
@@ -484,6 +488,9 @@
   .p-\[70px\] {
     padding: 70px;
   }
+  .p-\[px\] {
+    padding: px;
+  }
   .pb-\[150px\] {
     padding-bottom: 150px;
   }
@@ -555,6 +562,12 @@
   }
   .text-\[black\] {
     color: black;
+  }
+  .text-\[gra\] {
+    color: gra;
+  }
+  .text-\[gray\] {
+    color: gray;
   }
   .text-\[wh\] {
     color: wh;
